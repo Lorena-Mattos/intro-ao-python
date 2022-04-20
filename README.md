@@ -1,5 +1,5 @@
 # ConstruDelas - Introdução ao Python
-### Nome: 
+### Nome: Lorena Mattos Machado
 
 ## Visão Geral
 Bem vinda ao repositório do curso ConstruDelas, módulo de Introdução ao Python.

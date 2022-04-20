@@ -5,8 +5,8 @@ primeiro_nome = 'Clarisse'
 print(primeiro_nome)
 
 # Você pode concatenar strings usando o operador +
-sobrenome = 'Simões'
-print(primeiro_nome + sobrenome)
+sobrenome = 'Simoes'
+print(primeiro_nome + ' ' + sobrenome)
 
 # Se você quiser utilizar espaços no meio do texto, você precisa adicioná-los
 # explicitamente
