@@ -1,7 +1,9 @@
 # ConstruDelas - Introdução ao Python
-### Nome: Lorena Mattos Machado
+
+## Nome: Lorena Mattos Machado
 
 ## Visão Geral
+
 Bem vinda ao repositório do curso ConstruDelas, módulo de Introdução ao Python.
 
 Aqui vamos manter os exemplos utilizados durante as aulas.
@@ -11,6 +13,7 @@ Você poderá rodar os exemplos em sua própria máquina após ter seguido a con
 Além disso, ao realizar um `fork` do nosso repositório para a sua própria conta no GitHub, você poderá publicar suas soluções para os exercícios propostos.
 
 ## Como utilizar este repositório
+
 Você deverá realizar um _fork_ desse repositório para sua conta no GitHub e utilizar sua própria versão do repositório para trabalhar.
 
 ![Como fazer um fork do repositório](imagens/fork.png "Como fazer um fork do repositório")
@@ -39,6 +42,7 @@ Ao clonar o repositório, realize o primeiro `commit` incluindo seu nome neste a
 Bons estudos e divirta-se! :)
 
 ## Referências
+
 * [Microsoft Shows - Python for Beginners](https://docs.microsoft.com/pt-br/shows/intro-to-python-development/)
 * [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/)
 * [Getting Started with Python - GitHub](https://github.com/microsoft/c9-python-getting-started)
